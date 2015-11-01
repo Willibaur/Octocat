@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is a feature used in Git to create a complete copy of my master repo in order to make changes on it, later I can merge the branch with the master
